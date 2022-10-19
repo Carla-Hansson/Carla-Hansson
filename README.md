@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carla!</h1>
 <h3 align="center">I'm a technology enthusiast on the verge of something great!</h3>
-<p align="left"> <a href="https://twitter.com/carla_codes" target="blank"><img src="https://img.shields.io/twitter/follow/carla_codes?logo=twitter&style=for-the-badge" alt="carla_codes" /></a> </p>
+
 - 🔭 I’m currently working on **my website and portfolio**
 
 - 🌱 I’m currently learning **HTML,CSS and JavaScript**
