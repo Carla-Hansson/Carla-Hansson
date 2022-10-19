@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carla!</h1>
-<h3 align="center">I'm a technology enthusiasts on the verge of something great!</h3>
+<h3 align="center">I'm a technology enthusiast on the verge of something great!</h3>
 
 - 🔭 I’m currently working on **my website and portfolio**
 
