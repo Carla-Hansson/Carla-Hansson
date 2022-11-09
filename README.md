@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact **I'm from the Azores!**
+- ⚡ Fun fact **I'm from the Azores! (where's that?)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
