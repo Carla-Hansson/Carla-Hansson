@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS and JavaScript**
 
-- 🧠 I’m interested in **Python, Flutter, React, Next, Nodejs**
+- 🧠 I’m interested in **Python, Flutter, React, Next, Nodejs, PHP, MySQL**
 
 - 💬 Ask me about **anything**
 
