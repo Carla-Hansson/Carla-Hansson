@@ -10,7 +10,7 @@
 - 💬 Ask me about **anything**
 
 - ⚡ Fun fact **I'm from the Azores! (where's that?)**
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/carla_can_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carla_codes" height="30" width="40" /></a>
