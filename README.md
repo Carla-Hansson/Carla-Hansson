@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **my website and portfolio**
 
-- 🌱 I’m currently learning **HTML,CSS and JavaScript**
+- ❤️ I’m currently loving **HTML and CSSt**
+
+- 🌱 I’m currently learning **JavaScript**
 
 - 🧠 I’m interested in **Python, Flutter, React, Next, Nodejs, PHP, MySQL**
 
