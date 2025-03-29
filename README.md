@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my website and portfolio**
 
-- ❤️ I’m currently loving **HTML and CSSt**
+- ❤️ I’m currently loving **HTML and CSS**
 
 - 🌱 I’m currently learning **JavaScript**
 
