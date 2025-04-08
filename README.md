@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🧠 I’m interested in **Python, Flutter, React, Next, Nodejs, PHP, MySQL**
+- 🧠 I’m interested in **Python, Tailwind, React, Next, Nodejs, PHP, MySQL**
 
 - 💬 Ask me about **anything**
 
