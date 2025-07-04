@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Carla!</h1>
 <h3 align="center">Escaped the Grid. Found the Terminal.</h3>
 
-- 🔭 I’m currently working on **my website and portfolio**
+- 🔭 I’m currently working on **Building my portfolio & tinkering with side projects**
 
-- ❤️ I’m currently loving **HTML and CSS**
+- ❤️ I’m currently loving **HTML, CSS, and a little too much Tailwind**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript (send help… or snacks)**
 
-- 🧠 I’m interested in **Python, Tailwind, React, Next, Nodejs, PHP, MySQL**
+- 🧠 I’m interested in **Python, React, Nextjs, Nodejs, PHP, MySQL**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **WordPress, Elementor, or why semicolons are chaos**
 
-- ⚡ Fun fact **I'm from the Azores! (where's that?)**
+- ⚡ Fun fact **I'm from the Azores! Yes, it’s as beautiful as it sounds 🌊**
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
