@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carla!</h1>
-<h3 align="center">Recovering web designer.</h3>
+<h3 align="center">Escaped the Grid. Found the Terminal</h3>
 
 - 🔭 I’m currently working on **my website and portfolio**
 
